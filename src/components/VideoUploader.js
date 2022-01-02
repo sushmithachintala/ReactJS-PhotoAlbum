@@ -9,8 +9,8 @@ import Alert from "react-bootstrap/Alert";
 
 const S3_BUCKET = "videoupload.io";
 const REGION = "eu-central-1";
-const ACCESS_KEY = "AKIAWOUEGOWTD7EWWW6A";
-const SECRET_ACCESS_KEY = "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";
+const ACCESS_KEY = "text me for key";
+const SECRET_ACCESS_KEY = "text me for key";
 
 const VideoUploader = () => {
   const [selectedFile, setSelectedFile] = useState();
